@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Git and GitHub!
+=======
+Hello, Git and GitHub
+>>>>>>> 0542d82a5715cd0b96f38dddfc2ecb21945125ef
